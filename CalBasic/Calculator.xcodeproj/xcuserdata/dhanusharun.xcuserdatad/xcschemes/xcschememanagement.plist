@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CalBasic.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>CalculatorParser.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>MathExpressionPaser.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>MathParser.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>660CD67A27AA296300D2F8BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>660CD69C27AA299300D2F8BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6610BF9426B350F2005DFDD9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6610BFA526B350F3005DFDD9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6610BFB026B350F3005DFDD9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
